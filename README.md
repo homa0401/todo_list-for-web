@@ -3,4 +3,4 @@ web todo list application
 
 
 website link
-https://keen-khapse-e7d839.netlify.app
+https://kaleidoscopic-youtiao-c854ec.netlify.app
